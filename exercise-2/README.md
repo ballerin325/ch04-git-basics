@@ -19,6 +19,7 @@ Learn the basics of git workflow, including adding new files.
 This is a picture of **Misatosan**
 
 ![Misatosan](evgn00b-ai05.jpg)
+
 5. Write a paragraph of text where you explaine what the picture is
    about.  Feel free to add more.
 
